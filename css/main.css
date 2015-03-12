@@ -1,0 +1,49 @@
+/*These styles apply to all elements.*/
+body {
+    font-family: Verdana, sans-serif;
+}
+
+/*Title: "Orange Udacity Mug"*/
+h1 {
+    color: #666;
+    font-size: 48px;
+    padding-top: 25px;
+}
+
+/* Subtitle: "A Good Way to Start a Day"*/
+h2 {
+    color: #f07c17;
+    padding-bottom: 22px;
+    font: bold 24px ;
+}
+
+/*Content*/
+p {
+    color: #666;
+    font: normal 16px/2.0em Verdana, sans-serif;
+}
+
+/*Image caption which lists main features of mug*/
+.box {
+    border: solid 1px #ccc;
+    padding: 10px 0px 30px 30px;
+    margin-bottom: 30px;
+}
+
+.boxTitle {
+    font-size: 24px;
+}
+
+li {
+    color: #666;
+    font: 16.1px/2em Verdana, sans-serif; 
+}
+/*image*/
+img {
+    margin-bottom: 30px;
+}
+
+/*Image and image caption*/
+.col-md-5 {
+    padding-top: 20px;
+}
